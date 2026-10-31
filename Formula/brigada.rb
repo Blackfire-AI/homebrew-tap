@@ -1,7 +1,6 @@
 class Brigada < Formula
   desc "Coordinate coding agents with checks and cross-reviews"
   homepage "https://github.com/Blackfire-AI/brigada"
-  version "1.0.0"
   license "Apache-2.0"
 
   on_macos do
