@@ -5,25 +5,25 @@ class Brigada < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.2.0/brigada-darwin-arm64.tar.gz"
-      sha256 "010dd4e5f3eb09c3f37b6d14bd69ddd7cfac2f83b23d27bb57a04ea218b11054"
+      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.3.0/brigada-darwin-arm64.tar.gz"
+      sha256 "5e9cca5ece64cadf36321fdfb8fa8341d2aa91362c840fedcaf37a31cdefe8cd"
     end
 
     on_intel do
-      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.2.0/brigada-darwin-amd64.tar.gz"
-      sha256 "292e993b808b12f11f32a9187e7ec77d403334c06b654fcd8fa53f6464977c37"
+      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.3.0/brigada-darwin-amd64.tar.gz"
+      sha256 "74163ba87a9146f771cd7c9345bcfe1378da551a712c7dd552f4926e5c142ce1"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.2.0/brigada-linux-arm64.tar.gz"
-      sha256 "52bdd38f74d5c6c49e611e9cf8df68cc4fff0e69e9652ccdcd14ad689883a4c8"
+      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.3.0/brigada-linux-arm64.tar.gz"
+      sha256 "c375fe9f3cda19d3fe6a753c3eb8b2d7e653197ce6ee1ec484f04f10451d4ec4"
     end
 
     on_intel do
-      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.2.0/brigada-linux-amd64.tar.gz"
-      sha256 "c40fb9a1edded5a8c8b89f385d8418b040ab951e317be30a5140a409359de3df"
+      url "https://github.com/Blackfire-AI/brigada/releases/download/v1.3.0/brigada-linux-amd64.tar.gz"
+      sha256 "4f11701de728e76ecebf179dba0a687bcf530cf4456863d6e30e8a7fd0b6f0f6"
     end
   end
 
